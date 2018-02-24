@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I've learned a lot about html structures(about parent to, children of and siblings more exaclty), relative path and some tags.
+I already work with html, css, js and some other languages but it was still nice to see all of these things. I have to say that it was easy to solve this problem, i only had to search for one or another tag that i don't use frequently.  
